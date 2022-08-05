@@ -1,5 +1,5 @@
 ## Reactをサクッと始める下準備
-- ダウンロードかクローンをしてフォルダを展開
-- Npm installして (optionで--forceつける)
-- メンテされていないので、forceでインストールした場合は、npm audit fix --forceで要調整
-- Npm startでローカルが走る
+- npx create-react-app my-app
+- cd my-app
+- npm start
+公式通りです。
